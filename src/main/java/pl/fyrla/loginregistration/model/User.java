@@ -24,8 +24,6 @@ public class User {
     private Long id;
     private String name;
     private String surname;
-    private String username;
-    private String password;
 
     @OneToMany(cascade = CascadeType.REMOVE)
     @JoinColumn(name = "userId", updatable =  false, insertable = false)

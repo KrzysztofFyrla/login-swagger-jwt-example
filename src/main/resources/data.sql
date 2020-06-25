@@ -19,5 +19,7 @@ insert into user(id, name, surname) values (3, 'name 3', 'surname 3');
 insert into user(id, name, surname) values (4, 'name 4', 'surname 4');
 insert into user(id, name, surname) values (5, 'name 5', 'surname 5');*/
 
+/*insert into user(id, name, surname, username, password) values (1, 'name 1', 'surname 1', 'test', 'test')*/
+
 
 
